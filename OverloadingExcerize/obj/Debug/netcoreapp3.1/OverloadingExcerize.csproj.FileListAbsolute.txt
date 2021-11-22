@@ -1,0 +1,14 @@
+E:\repos\.NET Core\OverloadingExcerize\OverloadingExcerize\bin\Debug\netcoreapp3.1\OverloadingExcerize.exe
+E:\repos\.NET Core\OverloadingExcerize\OverloadingExcerize\bin\Debug\netcoreapp3.1\OverloadingExcerize.deps.json
+E:\repos\.NET Core\OverloadingExcerize\OverloadingExcerize\bin\Debug\netcoreapp3.1\OverloadingExcerize.runtimeconfig.json
+E:\repos\.NET Core\OverloadingExcerize\OverloadingExcerize\bin\Debug\netcoreapp3.1\OverloadingExcerize.runtimeconfig.dev.json
+E:\repos\.NET Core\OverloadingExcerize\OverloadingExcerize\bin\Debug\netcoreapp3.1\OverloadingExcerize.dll
+E:\repos\.NET Core\OverloadingExcerize\OverloadingExcerize\bin\Debug\netcoreapp3.1\OverloadingExcerize.pdb
+E:\repos\.NET Core\OverloadingExcerize\OverloadingExcerize\obj\Debug\netcoreapp3.1\OverloadingExcerize.csproj.AssemblyReference.cache
+E:\repos\.NET Core\OverloadingExcerize\OverloadingExcerize\obj\Debug\netcoreapp3.1\OverloadingExcerize.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\.NET Core\OverloadingExcerize\OverloadingExcerize\obj\Debug\netcoreapp3.1\OverloadingExcerize.AssemblyInfoInputs.cache
+E:\repos\.NET Core\OverloadingExcerize\OverloadingExcerize\obj\Debug\netcoreapp3.1\OverloadingExcerize.AssemblyInfo.cs
+E:\repos\.NET Core\OverloadingExcerize\OverloadingExcerize\obj\Debug\netcoreapp3.1\OverloadingExcerize.csproj.CoreCompileInputs.cache
+E:\repos\.NET Core\OverloadingExcerize\OverloadingExcerize\obj\Debug\netcoreapp3.1\OverloadingExcerize.dll
+E:\repos\.NET Core\OverloadingExcerize\OverloadingExcerize\obj\Debug\netcoreapp3.1\OverloadingExcerize.pdb
+E:\repos\.NET Core\OverloadingExcerize\OverloadingExcerize\obj\Debug\netcoreapp3.1\OverloadingExcerize.genruntimeconfig.cache
