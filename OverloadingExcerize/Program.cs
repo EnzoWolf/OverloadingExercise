@@ -64,7 +64,7 @@ namespace OverloadingExcerize
             }
             else if (isTrue == true && total == 1)
             {
-                return $"${total} dollars";
+                return $"${total} dollar";
             }
             else if (isTrue == true && total < 1)
             {
